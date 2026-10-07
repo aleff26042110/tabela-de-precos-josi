@@ -732,15 +732,15 @@
     "semantic_hash": ""
   },
   "assets/README.md": {
-    "mtime": 1791376081.0353227,
-    "seen": 1791376092.7508302,
-    "ast_hash": "d1e450eb96245965b90c1f60240d2621",
+    "mtime": 1791321931.4572506,
+    "seen": 1791322000.6621094,
+    "ast_hash": "ff019ee37ff8d8f71a832fc15a9e1849",
     "semantic_hash": ""
   },
   "index.html": {
-    "mtime": 1791376080.4567144,
-    "seen": 1791376092.7508302,
-    "ast_hash": "435302641860e23a4d086f40093d9489",
+    "mtime": 1791324363.9009492,
+    "seen": 1791324441.2132976,
+    "ast_hash": "60120c5b75fb17f5d6c27a38d7ab21b5",
     "semantic_hash": ""
   },
   "assets/abertura-poster.jpg": {
@@ -945,18 +945,6 @@
     "mtime": 1791338742.0,
     "seen": 1791322000.6621094,
     "ast_hash": "c926b7091247a6b9e898fe9ff5861474",
-    "semantic_hash": ""
-  },
-  ".vscode/settings.json": {
-    "mtime": 1791374167.5603955,
-    "seen": 1791375799.4624388,
-    "ast_hash": "19751b2a32e46d1ba1477f357123a898",
-    "semantic_hash": ""
-  },
-  "README.md": {
-    "mtime": 1791374370.195187,
-    "seen": 1791375799.4624388,
-    "ast_hash": "aa802a5e3557490579e75faabe6e4748",
     "semantic_hash": ""
   }
 }
